@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello from Seattle! 🌲
+
+I’m a software engineer turned designer applying to design MFA programs
+
+This content will be update soon, along with my [personal website](https://shakeelmohamed.com).
 
 <!--
 **shakeelmohamed/shakeelmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
