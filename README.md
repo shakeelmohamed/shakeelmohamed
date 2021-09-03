@@ -1,4 +1,4 @@
-### Hello from Seattle! 🌲
+# Hello from Seattle! 🌲
 
 I’m a software engineer turned designer applying to design MFA programs
 
