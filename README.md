@@ -1,6 +1,6 @@
 # Hello from Seattle! 🌲
 
-I’m a software engineer turned designer applying to design MFA programs
+I’m a developer turned designer, currently applying to graduate design programs.
 
 This content will be updated soon, along with my [personal website](https://shakeelmohamed.com).
 
