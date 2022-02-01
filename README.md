@@ -1,8 +1,6 @@
 # Hello from Seattle! 🌲
 
-I’m a developer turned designer, currently applying to graduate design programs.
-
-This content will be updated soon, along with my [personal website](https://shakeelmohamed.com).
+Hello, I’m Shakeel! I’m a visual designer in Seattle, specializing in branding and experimental typography. After 10 years of working as a software engineer, I began exploring my creative side. I’ve recently applied to graduate design programs with the intent of learning more about typography, branding, and design leadership.
 
 <!--
 **shakeelmohamed/shakeelmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
