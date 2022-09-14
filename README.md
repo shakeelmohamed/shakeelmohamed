@@ -2,7 +2,7 @@
 
 ![Shakeel Mohamed black and white headshot](./opengraph-default.png)
 
-I’m a visual designer in Seattle, specializing in branding and experimental typography. After 10 years of working as a software engineer, I began exploring my creative side. This fall, I will begin an MFA in Graphic Design at ArtCenter College of Design, with the intent of learning more about typography, branding, and design leadership.
+Hello, I’m Shakeel! I’m a visual designer from Seattle, specializing in branding and experimental typography. After 10 years of working as a software engineer, I began exploring my creative side. I am an MFA in Graphic Design student at ArtCenter College of Design, with the intent of learning more about typography, branding, and design leadership.
 
 <!--
 **shakeelmohamed/shakeelmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
