@@ -2,7 +2,7 @@
 
 ![Shakeel Mohamed black and white headshot](./opengraph-default.png)
 
-Hello, I’m Shakeel! I’m a Graduate Graphic Design Candidate at ArtCenter College of Design interested in branding, typography, creative technology, and design leadership. After 10 years of working as a software engineer, I began exploring design as a way to practice intentionality.
+I’m a Graphic Design MFA Candidate at ArtCenter College of Design interested in branding, typography, creative technology, and design leadership. After 10 years of working as a software engineer, I began exploring design as a way to practice intentionality.
 
 <!--
 **shakeelmohamed/shakeelmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
