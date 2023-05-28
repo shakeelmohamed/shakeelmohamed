@@ -2,7 +2,9 @@
 
 ![Shakeel Mohamed black and white headshot](./opengraph-default.png)
 
-I’m a Graphic Design MFA Candidate at ArtCenter College of Design interested in branding, typography, creative technology, and design leadership. After 10 years of working as a software engineer, I began exploring design as a way to practice intentionality.
+I’m a Graphic Design MFA Candidate at ArtCenter College of Design. In my software career, I collaborated with designers so often I began to think like one. Before realizing my love of brand identity, I found design through streetwear fashion. During my graduate studies, I am exploring how graphic design can be applied across media and disciplines.
+
+If any of this sounds interesting, please reach out by email, LinkedIn, or Instagram. I enjoy discussing design and professional growth with people at any stage of their careers.
 
 <!--
 **shakeelmohamed/shakeelmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
