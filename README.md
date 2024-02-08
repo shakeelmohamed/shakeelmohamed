@@ -1,6 +1,4 @@
-# Hello, I’m Shakeel! 
-
-![Shakeel Mohamed black and white headshot](./opengraph-default.png)
+# Hello, I’m Shakeel!
 
 I’m a Graphic Design MFA Candidate at ArtCenter College of Design. In my software career, I collaborated with designers so often I began to think like one. Before realizing my love of brand identity, I found design through streetwear fashion. During my graduate studies, I am exploring how graphic design can be applied across media and disciplines.
 
