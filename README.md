@@ -1,8 +1,10 @@
 # Hello, I’m Shakeel!
 
-I’m a Graphic Design MFA Candidate at ArtCenter College of Design. In my software career, I collaborated with designers so often I began to think like one. Before realizing my love of brand identity, I found design through streetwear fashion. During my graduate studies, I am exploring how graphic design can be applied across media and disciplines.
+**I think inside, outside, and about the box itself.**
 
-If any of this sounds interesting, please reach out by email, LinkedIn, or Instagram. I enjoy discussing design and professional growth with people at any stage of their careers.
+I thrive at the intersection of cultures, translating across perspectives to discover new ideas. My elementary school was on a Native American reservation where I was “the other Indian.” Early in life, I understood the nuances of personal identity which primed me for my second career in graphic design.
+
+The pursuit of mastery fuels everything I do. As a software engineer, I didn’t just write code; I crafted it to be efficient and elegantly formatted, making it intuitive for other developers. This attention to typography is now at the heart of my practice as a designer. My creative process is a synthesis of research, conversational insights, strategy, and empathy to connect with my audience.
 
 <!--
 **shakeelmohamed/shakeelmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
