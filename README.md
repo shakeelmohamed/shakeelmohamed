@@ -1,10 +1,10 @@
 # Hello, I’m Shakeel!
 
-**I think inside, outside, and about the box itself.**
+My name is Shakeel, I’m a strategic brand designer specializing in identity design, typography, and systems thinking. I approach projects systematically by understanding the brief, audience, and constraints to create brands that work seamlessly across every touchpoint.
 
-I thrive at the intersection of cultures, translating across perspectives to discover new ideas. My elementary school was on a Native American reservation where I was “the other Indian.” Early in life, I understood the nuances of personal identity which primed me for my second career in graphic design.
+During my graduate studies at ArtCenter College of Design I designed four typefaces, which gave me a deep appreciation for the power of typography across media types. Designing fonts requires rigorous refinement over minute details, I bring this same attention to craft through form, layout, typesetting, and print production.
 
-The pursuit of mastery fuels everything I do. As a software engineer, I didn’t just write code; I crafted it to be efficient and elegantly formatted, making it intuitive for other developers. This attention to typography is now at the heart of my practice as a designer. My creative process is a synthesis of research, conversational insights, strategy, and empathy to connect with my audience.
+At Splunk, I was known as “the glue” for my ability to coordinate across teams and translate complex ideas for different audiences from technical to non-technical, from interns to vice presidents. Many of these projects were demonstrated on stage at technology conferences and used by several Fortune 500 companies.
 
 <!--
 **shakeelmohamed/shakeelmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
