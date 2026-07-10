@@ -1,6 +1,6 @@
 # Hello, I’m Shakeel!
 
-My name is Shakeel, I’m a strategic brand designer specializing in identity design, typography, and systems thinking. I approach projects systematically by understanding the brief, audience, and constraints to create brands that work seamlessly across every touchpoint.
+My name is Shakeel, I’m a brand systems designer specializing in identity design, typography, and systems thinking. I approach projects systematically by understanding the brief, audience, and constraints to create brands that work seamlessly across every touchpoint.
 
 During my graduate studies at ArtCenter College of Design I designed four typefaces, which gave me a deep appreciation for the power of typography across media types. Designing fonts requires rigorous refinement over minute details, I bring this same attention to craft through form, layout, typesetting, and print production.
 
